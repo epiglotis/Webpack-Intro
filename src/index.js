@@ -1,1 +1,4 @@
-console.log("Webpack Intro");
+import generateJoke from "./generateJoke";
+
+
+console.log(generateJoke());
